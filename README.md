@@ -12,4 +12,4 @@ You can find me on below links:
 	<a href="https://twitter.com/KnwSingh"><img src="https://img.shields.io/twitter/follow/sourabhgupta385?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/nishant-narayan-singh-404550103"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-In case of emergency please call me on <a Mobile no. +91-9739042443</a>
+In case of emergency please call me on <a> Mobile no. +91-9739042443</a>
